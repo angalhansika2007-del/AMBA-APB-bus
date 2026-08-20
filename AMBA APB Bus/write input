@@ -1,0 +1,6 @@
+PADDR   → Address
+PWDATA  → Data to be written
+PWRITE  → 1
+PSEL    → 1
+PENABLE → 1
+PREADY  → 1

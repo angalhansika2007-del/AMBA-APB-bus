@@ -1,0 +1,6 @@
+PADDR   → Address
+PWRITE  → 0
+PSEL    → 1
+PENABLE → 1
+PRDATA  ← Data from slave
+PREADY  → 1
